@@ -1,0 +1,10 @@
+4
+Kartoffel
+Zwiebel
+Möhre
+Reis
+4
+Kartoffel Zwiebel Möhre  
+Kartoffel Zwiebel Reis  
+Kartoffel Möhre Reis  
+Zwiebel Möhre Reis

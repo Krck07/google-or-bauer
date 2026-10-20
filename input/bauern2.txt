@@ -1,0 +1,16 @@
+8
+Kartoffel
+Zwiebel
+Möhre
+Reis
+Paprika
+Tomate
+Petersilie
+Champignons
+6
+Kartoffel Zwiebel Möhre
+Tomate Zwiebel Petersilie
+Paprika Zwiebel Tomate
+Reis Champignons Zwiebel
+Kartoffel Paprika Zwiebel
+Reis Paprika Tomate

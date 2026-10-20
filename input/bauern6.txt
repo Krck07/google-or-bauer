@@ -1,0 +1,128 @@
+26
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+100
+A R U
+A B P
+F R W
+B Q Z
+G W Z
+B I O
+K S W
+H M N
+J T X
+I V Z
+B S X
+G Q T
+B I Q
+M W Z
+I O S
+A B L
+F N Y
+A B O
+A H L
+D P Q
+K M N
+A D L
+B G R
+H L R
+R Y Z
+I V Y
+C I N
+F I N
+E N X
+A L W
+G K P
+B J P
+A G L
+F P R
+E H Z
+E I Q
+O T X
+L P Y
+B D E
+A I X
+E J R
+K Q V
+C O W
+A L X
+N P S
+A E T
+F J K
+C L M
+A C Z
+F M R
+L O R
+D U V
+F S Z
+E G J
+A N P
+M P T
+H L W
+L W X
+E J M
+H J V
+D O T
+C K W
+I N W
+E T V
+E J U
+A K P
+D J P
+I P R
+E V W
+C J N
+C F H
+A B S
+B K R
+J N S
+M V W
+H U Z
+U Y Z
+F M X
+E X Z
+H O V
+E Q U
+S U X
+A I O
+P T V
+B G Z
+E S U
+G K V
+L M V
+O U X
+P Q Z
+D Q Y
+R T U
+C R X
+D P S
+C O P
+B H R
+D X Z
+C K V
+B F N
+G H S

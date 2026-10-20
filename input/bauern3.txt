@@ -1,0 +1,59 @@
+38
+Apfel
+Avocado
+Birne
+Blumenkohl
+Bohnen
+Brokkoli
+Champignons
+Erbse
+Erdbeeren
+Feige
+Fenchel
+Gurke
+Himbeeren
+Kartoffel
+Kichererbse
+Knoblauch
+Kohlrabi
+Lauch
+Linse
+Mandarine
+Möhre
+Olive
+Paprika
+Pastinake
+Pilze
+Porree
+Quitte
+Rhabarber
+Rosenkohl
+Rote Bete
+Schwarzwurzel
+Sellerie
+Spinat
+Stachelbeere
+Tomate
+Weintrauben
+Zucchini
+Zwiebel
+19
+Rosenkohl Tomate Zwiebel
+Paprika Schwarzwurzel Spinat
+Bohnen Porree Stachelbeere
+Kartoffel Pastinake Rosenkohl
+Avocado Blumenkohl Kichererbse
+Himbeeren Lauch Rosenkohl
+Birne Blumenkohl Sellerie
+Avocado Schwarzwurzel Sellerie
+Möhre Paprika Tomate
+Apfel Kartoffel Paprika
+Apfel Kohlrabi Paprika
+Apfel Kartoffel Tomate
+Kartoffel Zwiebel Möhre
+Kartoffel Zwiebel Paprika
+Kartoffel Zucchini Paprika
+Linse Zucchini Paprika
+Linse Zucchini Pastinake
+Erdbeeren Mandarine Weintrauben
+Erdbeeren Rhabarber Weintrauben

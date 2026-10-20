@@ -1,0 +1,88 @@
+50
+Rote_Bete
+Champignons
+Avocado
+Knoblauch
+Kichererbse
+Kartoffel
+Brokkoli
+Porree
+Bohnen
+Reis
+Nektarine
+Banane
+Weizen
+Zwiebel
+Himbeeren
+Pflaume
+Radieschen
+Linse
+Olive
+Pastinake
+Schwarzwurzel
+Zucchini
+Pilze
+Kohlrabi
+Spinat
+Apfel
+Quitte
+Melone
+Feige
+Rhabarber
+Rosenkohl
+Birne
+Gurke
+Mais
+Pfirsich
+Kiwi
+Paprika
+Erbse
+Möhre
+Tomate
+Blumenkohl
+Granatapfel
+Lauch
+Maracuja
+Mirabelle
+Fenchel
+Linsen
+Erdbeeren
+Mandarine
+Weintraube
+36
+Granatapfel Reis Rhabarber
+Granatapfel Reis Maracuja
+Granatapfel Reis Mirabelle
+Rosenkohl Tomate Zwiebel
+Kiwi Pastinake Pflaume
+Paprika Schwarzwurzel Spinat
+Kichererbse Kiwi Mais
+Linse Olive Reis
+Kichererbse Pflaume Weizen
+Kartoffel Radieschen Zwiebel
+Banane Birne Olive
+Knoblauch Mirabelle Zwiebel
+Paprika Quitte Weizen
+Kartoffel Pastinake Rosenkohl
+Erbse Pflaume Weizen
+Himbeeren Reis Spinat
+Avocado Blumenkohl Kichererbse
+Kiwi Olive Spinat
+Kiwi Pfirsich Radieschen
+Himbeeren Lauch Rosenkohl
+Erbse Mirabelle Zwiebel
+Möhre Paprika Tomate
+Apfel Kartoffel Paprika
+Apfel Kohlrabi Paprika
+Banane Kohlrabi Paprika
+Banane Kohlrabi Zwiebel
+Banane Fenchel Zwiebel
+Apfel Kartoffel Tomate
+Kartoffel Zwiebel Möhre  
+Kartoffel Zwiebel Paprika  
+Kartoffel Zucchini Paprika  
+Linsen Zucchini Paprika  
+Linsen Zucchini Pastinake  
+Erdbeeren Mandarine Weintraube  
+Erdbeeren Rhabarber Weintraube  
+Mais Zwiebel Möhre
